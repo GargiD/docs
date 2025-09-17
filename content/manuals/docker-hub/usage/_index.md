@@ -17,7 +17,7 @@ user type, subject to fair use:
 | Business (authenticated) | Unlimited                               | Unlimited                     | Unlimited                      |
 | Team (authenticated)     | Unlimited                               | Unlimited                     | Unlimited                      |
 | Pro (authenticated)      | Unlimited                               | Unlimited                     | Unlimited                      |
-| Personal (authenticated) | 200                                     | Unlimited                     | Up to 1                        |
+| Personal (authenticated) | 200                                     | Unlimited                     | Unlimited                        |
 | Unauthenticated users    | 100 per IPv4 address or IPv6 /64 subnet | Not applicable                | Not applicable                 |
 
 For more details, see [Pull usage and limits](./pulls.md).
